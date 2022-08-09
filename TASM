@@ -1,0 +1,10 @@
+Crear un archivo código fuente en el bloc de notas
+Guardar con extension .asm y configuración UTF-8
+Instalar emulador para ensamblador (TASM)
+Abrir emulador
+Utilizar el comando tasm y el nombre del archivo (hola.asm)
+Pulsar enter
+Utilizar el comando tlink y nombrar de nuevo al archivo pero con extensión .obj (hola.obj)
+Pulsar enter
+Escribir el nombre del archivo sin extensiones 
+Pulsar enter
